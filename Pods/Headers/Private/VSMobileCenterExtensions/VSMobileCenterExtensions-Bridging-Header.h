@@ -1,0 +1,1 @@
+../../../VSMobileCenterExtensions/VSMobileCenterExtensions/VSMobileCenterExtensions-Bridging-Header.h
